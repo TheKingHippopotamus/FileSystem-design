@@ -1,0 +1,6 @@
+{
+  "name": "FHS Architect - Linux Filesystem Designer",
+  "description": "Visual architecture planner and compliance manager for UNIX/Ubuntu Filesystem Hierarchy Standard (FHS) with real-time drag-and-drop, 2x2 classification matrix, partition sizing, and Web/Smartphone platform settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
